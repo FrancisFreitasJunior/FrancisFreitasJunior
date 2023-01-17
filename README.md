@@ -21,4 +21,4 @@ I'm dev student. I know little about the languages, but i don't stop study... ðŸ
 </div></br>  
 
 ### ðŸ’ª My works  
- ![Francis GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisFreitasJunior&show_icons=true&theme=tokyonight)  
+![Francis GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisFreitasJunior&show_icons=true&theme=tokyonight)
