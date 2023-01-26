@@ -2,7 +2,7 @@
 
 Hello, Guys! ✌️   
 My nickname it's Fran Junior 😎  
-I'm dev student. I know little about the languages, but I don't stop studying... 🥹
+I'm Front-End Engineer Student. I know little about the languages, but I don't stop studying... 🥹
 
 ### 🗣️ My Language   
 🇧🇷 - Fluent  
