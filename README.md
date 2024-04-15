@@ -1,8 +1,9 @@
-## <center>Welcome to profile for **Francis de Freitas Junior** 😊</center>
+<h2 align="center">Welcome to profile for Francis de Freitas Junior 😊</h2> 
 
 Hello, Guys! ✌️   
 My nickname it's Fran Junior 😎  
-I'm Front-End Engineer Student. I know little about the languages, but I don't stop studying... 🥹
+I'm Front-End Engineer Student at EBAC and Software Engineer Student at Unicesumar.  
+I know little about the languages, but I don't stop studying... 🥹
 
 ### 🗣️ My Language   
 🇧🇷 - Fluent  
