@@ -22,4 +22,4 @@ I know little about the languages, but I don't stop studying... 🥹
     <img align="center" alt="js" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/FrancisFreitasJunior/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisFreitasJunior&layout=compact)](https://github.com/FrancisFreitasJunior/github-readme-stats)
