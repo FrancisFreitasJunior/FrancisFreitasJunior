@@ -59,31 +59,34 @@ Também faço parte do **Insanos Moto Clube**, onde carrego com orgulho:
 
 ## 🎖️ Skill Badges
 
-<table align="center" border="0px">
-  <tr>
-    <td align="center" width="160" border="0px">
-      <a href="https://www.credly.com/badges/0a2ff6ba-7502-495d-b9a9-1e7024b1c030/public_url">
-        <img src="https://images.credly.com/size/340x340/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="110">
-        <br>
-        <sub><b>Build a Secure Google Cloud Network</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160" border="0px">
-      <a href="https://www.credly.com/badges/dcc1fe31-ae53-4b28-9962-2c8cc746de1a/public_url">
-        <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="110">
-        <br>
-        <sub><b>Prepare Data for ML APIs</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160" border="0px">
-      <a href="https://www.credly.com/badges/4f4a6677-df65-46e0-b30a-dcd3c94565bc/public_url">
-        <img src="https://images.credly.com/size/340x340/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="110">
-        <br>
-        <sub><b>Set Up an App Dev Environment</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
+
+  <div style="text-align: center;">
+    <a href="https://www.credly.com/badges/0a2ff6ba-7502-495d-b9a9-1e7024b1c030/public_url">
+      <img src="https://images.credly.com/size/340x340/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="110">
+      <br>
+      <sub><b>Build a Secure Google Cloud Network</b></sub>
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.credly.com/badges/dcc1fe31-ae53-4b28-9962-2c8cc746de1a/public_url">
+      <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="110">
+      <br>
+      <sub><b>Prepare Data for ML APIs</b></sub>
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.credly.com/badges/4f4a6677-df65-46e0-b30a-dcd3c94565bc/public_url">
+      <img src="https://images.credly.com/size/340x340/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="110">
+      <br>
+      <sub><b>Set Up an App Dev Environment</b></sub>
+    </a>
+  </div>
+
+</div>
+
 
 ---
 
